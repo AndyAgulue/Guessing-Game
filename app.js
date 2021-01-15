@@ -111,6 +111,9 @@ if (AndyBoard.toLowerCase() === 'no') {
        alert('Try Again');
 }//console.log('Andy\'s snowboarding abilities');
 
+}
+
+guessingGame()
 
 
        // question6
