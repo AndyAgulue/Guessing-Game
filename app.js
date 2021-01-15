@@ -1,4 +1,5 @@
 'use strict';
+function guessingGame(){
 //game intro
 var UserName = prompt ('What is your name?');
 
@@ -110,6 +111,9 @@ if (AndyBoard.toLowerCase() === 'no') {
        alert ('Try Again');
 }//console.log('Andy\'s snowboarding abilities');
 
+}
+
+guessingGame()
 
        
       
